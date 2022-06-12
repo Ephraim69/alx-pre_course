@@ -1,1 +1,1 @@
-git pull
+touch up_to_date
